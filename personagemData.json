@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Tophat Jones",
+    "image": "https://rickandmortyapi.com/api/character/avatar/358.jpeg"
+  },
+
+  {
+    "name": "Rick Sanchez",
+    "image": "https://rickandmortyapi.com/api/character/avatar/1.jpeg"
+  },
+
+  {
+    "name": "Princess Ponietta",
+    "image": "https://rickandmortyapi.com/api/character/avatar/730.jpeg"
+  }
+]
