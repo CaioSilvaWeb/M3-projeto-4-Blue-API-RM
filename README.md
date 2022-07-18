@@ -12,5 +12,6 @@ Foram usadas as seguintes tecnologias e ferramentas:
     * Documentação Swagger
     * Autenticação JWT
  
+Deploy: https://m3-projeto-4-blue-api-rm.onrender.com
 
 ---
