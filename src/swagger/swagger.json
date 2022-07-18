@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "",
+      "url": "https://m3-projeto-4-blue-api-rm.onrender.com",
       "description": "API Produção"
     },
     {
